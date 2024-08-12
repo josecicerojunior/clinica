@@ -36,10 +36,22 @@ main {
   justify-content: center;
   align-items: center; 
 }
-
 .topo-titulo a {
   display: flex;
 }
+.topo-links{
+  display:flex;
+}
+.topo-link{
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+}
+
+
+
+
 
 
 
