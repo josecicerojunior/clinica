@@ -49,6 +49,18 @@ main {
   font-weight: 600;
 }
 
+.box-sobre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-sobre h3 {
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+
 
 
 
