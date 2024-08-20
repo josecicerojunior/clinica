@@ -48,7 +48,7 @@ main {
   color: #fff;
   font-weight: 600;
 }
-
+/* SOBRE */
 .box-sobre {
   display: flex;
   justify-content: center;
@@ -59,6 +59,42 @@ main {
   font-weight: 500;
   text-transform: uppercase;
 }
+.box-sobre img {
+  height:250px;
+}
+
+/* BOX VISÃO GERAL */
+.box-visao-geral{
+    position: relative;
+    background-image: url('/img/recepcao.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+.box-visao-geral h1{
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 38px;
+  margin: 0;
+  
+}
+.box-visao-geral-titulo{
+  height: 100%;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
 
 
 
