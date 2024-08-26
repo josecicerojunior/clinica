@@ -108,11 +108,33 @@ main {
 #especialidades {
   padding: 40px 20px 0;
 }
+figcaption {
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+}
 
+.container-titulo {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+/* Fim especialidades */
 
+/* Início horário */
+.box-link-horarios {
+  text-align: center;
+  margin-top: 20px;
+}
 
-
-
+.link-horarios {
+  background-color: #00cad1;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  text-decoration: none;
+}
 
 
 
